@@ -5,6 +5,7 @@ Work done at USF with SQL codes and corresponding graphs.
 Table contains SAT scores and hours studied for different schools, teachers, and students.
 
 ## Question #1
+How does studying affect the Math SAT score?
 
 ```sql
 Select sat_math, hrs_studied
