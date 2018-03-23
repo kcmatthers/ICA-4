@@ -65,7 +65,7 @@ order by marketvalue DESC
 limit 10
 ```
 
-![ICA-4](Vizualizations/Q5graph.png)
+![ICA-4](Visualizations/Q5graph.png)
 
 
 
