@@ -37,3 +37,35 @@ group by teacher
 ```
 
 ![ICA-4] (Vizualizations/Q3graph.png)
+
+## Description of datasets.nfl_combine
+Table contains information on players in the NFL combine during various years. The information includes features of the players, what colleges they went to, and if they were drafted.
+
+## Question 1
+What were the nfl grades of all the players in the 2015 combine? Limit 10 for graph.
+
+```sql
+select name, nflgrade
+from datasets.nfl_combine
+where year = 2015
+```
+![ICA-4] (Vizualizations/Q4graph.png)
+
+## Description of datasets.forbes_global_2010_2014
+Table contains information on companies around the world from the years 2010-2014 including there market value, sales, profits, and assests.
+
+## Question 1
+What are the top 10 companies with the highest market values?
+
+```sql
+Select company, marketvalue 
+from datasets.forbes_global_2010_2014
+order by marketvalue DESC
+limit 10
+```
+![ICA-4] (Vizualizations/Q5graph.png)
+
+
+
+
+
