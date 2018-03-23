@@ -36,7 +36,7 @@ from datasets.sat_scores
 group by teacher
 ```
 
-![ICA-4](Vizualizations/Q3graph.png)
+![ICA-4](Visualizations/Q3graph.png)
 
 ## Description of datasets.nfl_combine
 Table contains information on players in the NFL combine during various years. The information includes features of the players, what colleges they went to, and if they were drafted.
