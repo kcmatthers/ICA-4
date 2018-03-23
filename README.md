@@ -49,6 +49,7 @@ select name, nflgrade
 from datasets.nfl_combine
 where year = 2015
 ```
+
 ![ICA-4](Vizualizations/Q4graph.png)
 
 ## Description of datasets.forbes_global_2010_2014
@@ -63,6 +64,7 @@ from datasets.forbes_global_2010_2014
 order by marketvalue DESC
 limit 10
 ```
+
 ![ICA-4](Vizualizations/Q5graph.png)
 
 
