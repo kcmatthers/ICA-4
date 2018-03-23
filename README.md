@@ -13,4 +13,4 @@ Where hrs_studied notnull
 order by hrs_studied ASC
 ```
 
-![ICA#4](Visualizations/ICA#4 Q1.png)
+![ICA#4](ICA-4/Visualizations/ICA#4 Q1.png)
