@@ -6,11 +6,11 @@ Table contains SAT scores and hours studied for different schools, teachers, and
 
 ## Question #1
 
-'''sql
+```sql
 Select sat_math, hrs_studied
 From datasets.sat_scores
 Where hrs_studied notnull
 order by hrs_studied ASC
-'''
+```
 
-![example](Visualizations/ICA#4 Q1.png)
+![ICA-4](Visualizations/ICA#4 Q1.png)
