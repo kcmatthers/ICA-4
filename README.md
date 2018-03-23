@@ -25,7 +25,7 @@ from datasets.sat_scores
 group by school
 ```
 
-![ICA-4](Vizualizations/Q2graph.png)
+![ICA-4]/Visualizations/Q2graph.png
 
 ## Question #3
 What were each teachers average total score?
