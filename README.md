@@ -50,7 +50,7 @@ from datasets.nfl_combine
 where year = 2015
 ```
 
-![ICA-4](Vizualizations/Q4graph.png)
+![ICA-4](Visualizations/Q4graph.png)
 
 ## Description of datasets.forbes_global_2010_2014
 Table contains information on companies around the world from the years 2010-2014 including there market value, sales, profits, and assests.
